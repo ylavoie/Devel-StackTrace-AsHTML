@@ -1,0 +1,9 @@
+/META.yml
+/Makefile
+/pm_to_blib
+/blib/
+*~
+/MYMETA.*
+/.proverc
+/Devel-StackTrace-AsHTML-*
+/.build
